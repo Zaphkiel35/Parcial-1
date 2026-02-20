@@ -23,7 +23,7 @@ nav {
 }
 
 .nav {
-  max-width: 1366px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 35px 5vw;
   display: flex;
@@ -34,7 +34,6 @@ nav {
 .logo {
   font-family: 'Playfair Display', serif;
   font-size: 1.6rem;
-  font-weight: 700;
   color: #b00020;
   text-decoration: none;
 }
@@ -43,7 +42,7 @@ nav {
   margin-left: 3rem;
   color: #111;
   text-decoration: none;
-  transition: color 0.2s;
+  transition: 0.2s;
 }
 
 .navlinks a:hover {
